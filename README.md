@@ -1,6 +1,5 @@
 # REST API with Spring Boot and Angular
 
-![Build](https://github.com/loiane/crud-angular-spring/actions/workflows/build.yml/badge.svg?branch=main)
 
 CRUD Angular + Spring demonstrating Has-Many relationship.
 
