@@ -1,0 +1,6 @@
+[submodule "crud-angular"]
+	path = crud-angular
+	url = https://github.com/audalio-devops/crud-angular
+[submodule "crud-spring"]
+	path = crud-spring
+	url = https://github.com/audalio-devops/crud-spring
